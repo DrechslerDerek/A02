@@ -1,0 +1,9 @@
+watch,2,3.00
+ruby,3,4.00
+painting,4,8.00
+sculpture,5,8.00
+Silver,7,14.00
+gold,9,10.00
+diamond,11,23.00
+dish,2,1.00
+fork,1,2.00
